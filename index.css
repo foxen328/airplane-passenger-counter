@@ -1,0 +1,75 @@
+/* CSS HEX
+--penn-blue: #132158ff;
+--french-gray: #ABB0C1ff;
+--van-dyke: #4B302Eff;
+--rich-black: #101119ff;
+--timberwolf: #E4DDD9ff;
+--licorice: #1F1613ff;
+--night: #0C0A0Cff;
+--engineering-orange: #BC1013ff;
+--cinereous: #877368ff; */
+
+
+
+body {
+    background-image: url("https://live.staticflickr.com/8030/8004684856_66819db2f1_b.jpg");
+    background-size: cover;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: yellow;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: -1px 1px 2px #132158ff;
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 30px;
+}
+
+#increment-btn {
+    background: #BC1013ff;
+    color: inherit;
+    text-shadow: 1px 1px 1px #BC1013ff;
+    border: 1px solid #BC1013ff;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+#save-btn {
+    background: #132158ff;
+    color: inherit;
+    text-shadow: 1px 1px px #4B302Eff;
+    border: 1px solid #BC1013ff;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container{
+    max-width: 45%;
+    max-height: fit-content;
+    background-position: center;
+    margin: auto;
+    border: 2px solid yellow;
+    border-radius: 20px;
+    padding: 5px 10px;
+    background-color: #4B302Eff;
+    max
+    
+}
+
+
